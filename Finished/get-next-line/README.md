@@ -1,8 +1,8 @@
-# ✅ LIBFT
+# ✅ GET-NEXT-LINE
 
 - Actual Status : success.
-- Result        : 115%
-- Observations  :
+- Result        : 107%
+- Observations  : Bonus part not working correctly.
 
 
 ## Need help?:
