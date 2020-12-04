@@ -8,3 +8,5 @@ If you have any suggestion, error or want to say me something, get in touch at: 
 - [Libft - 115%](https://github.com/guillerpsanchez/42-Exercises/tree/master/Finished/libft)✅
 
 - [Get-next-line - 107%](https://github.com/guillerpsanchez/42-Exercises/tree/master/Finished/get-next-line)✅
+
+- [ft_printf - 100%](https://github.com/guillerpsanchez/42-Exercises/tree/master/Finished/ft_printf)✅
