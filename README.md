@@ -10,3 +10,5 @@ If you have any suggestion, error or want to say me something, get in touch at: 
 - [Get-next-line - 107%](https://github.com/guillerpsanchez/42-Exercises/tree/master/Finished/get-next-line)✅
 
 - [ft_printf - 100%](https://github.com/guillerpsanchez/42-Exercises/tree/master/Finished/ft_printf)✅
+
+- [ft_server - 100%](https://github.com/guillerpsanchez/42-Exercises/tree/master/Finished/ft_server)✅

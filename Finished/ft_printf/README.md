@@ -2,7 +2,7 @@
 
 - Actual Status : success.
 - Result        : 100%
-- Observations  : No Bonus part
+- Observations  : 
 
 
 ## Need help?:
